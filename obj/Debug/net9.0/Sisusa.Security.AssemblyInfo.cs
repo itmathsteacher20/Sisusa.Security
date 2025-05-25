@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Library for working with Passwords - hashing them, validating them in a secrue ma" +
     "nner.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b616192da775d1c016d4807e3d1a59cbe636f8f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sisusa.Security")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sisusa.Security")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

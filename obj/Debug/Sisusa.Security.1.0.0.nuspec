@@ -10,7 +10,7 @@
     <releaseNotes>Initial Release</releaseNotes>
     <copyright>(c)2025 T_Dlamini</copyright>
     <tags>password hashing password-policy</tags>
-    <repository type="git" url="https://github.com/itmathsteacher20/Sisusa.Security" />
+    <repository type="git" url="https://github.com/itmathsteacher20/Sisusa.Security" commit="b616192da775d1c016d4807e3d1a59cbe636f8f9" />
     <dependencies>
       <group targetFramework="net9.0" />
     </dependencies>

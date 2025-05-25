@@ -1,11 +1,8 @@
 ﻿namespace Sisusa.Security;
 
-public class Class1
-{
-
-}
-
-
+/// <summary>
+/// A password after it's been hashed, includes the salt used to hash it.
+/// </summary>
 public class HashedPassword
 {
     /// <summary>
@@ -18,6 +15,11 @@ public class HashedPassword
     /// </summary>
     public string PasswordSalt { get; init; } = string.Empty;
 
+    /// <summary>
+    /// Creates a new instance of <see cref="HashedPassword"/> with the specified hash and salt values.
+    /// </summary>
+    /// <param name="passwordHash">The hashed password.</param>
+    /// <param name="passwordSalt">The salt used to hash the password.</param>
     public HashedPassword(string passwordHash, string passwordSalt)
     {
         ArgumentNullException.ThrowIfNullOrWhiteSpace(passwordHash);
