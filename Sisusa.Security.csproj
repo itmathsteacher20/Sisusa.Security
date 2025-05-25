@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Sisusa.Security</Title>
+    <Description>Library for working with Passwords - hashing them, validating them in a secrue manner.</Description>
+    <Copyright>(c)2025 T_Dlamini</Copyright>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/itmathsteacher20/Sisusa.Security</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>password;hashing;password-policy</PackageTags>
+    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

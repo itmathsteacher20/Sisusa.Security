@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documents\\GitHub\\Sisusa.Security\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|e:\\documents\\github\\sisusa.security\\sisusa.security.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|solutionrelative:sisusa.security.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|e:\\documents\\github\\sisusa.security\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|e:\\documents\\github\\sisusa.security\\policybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|solutionrelative:policybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|e:\\documents\\github\\sisusa.security\\passwordmeetspolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|solutionrelative:passwordmeetspolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|e:\\documents\\github\\sisusa.security\\passwordpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|solutionrelative:passwordpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|e:\\documents\\github\\sisusa.security\\passwordhasherbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|solutionrelative:passwordhasherbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|e:\\documents\\github\\sisusa.security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|solutionrelative:passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4059614F-6A08-4550-B05E-3197A0A735AF}|..\\Sisusa.SecurityTests\\Sisusa.SecurityTests.csproj|e:\\documents\\github\\sisusa.securitytests\\passwordhashertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|e:\\documents\\github\\sisusa.security\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB36DDB4-24C5-A212-7FF8-465F519A2861}|Sisusa.Security.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4059614F-6A08-4550-B05E-3197A0A735AF}|..\\Sisusa.SecurityTests\\Sisusa.SecurityTests.csproj|e:\\documents\\github\\sisusa.securitytests\\passwordpolicytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sisusa.Security",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Sisusa.Security\\Sisusa.Security.csproj",
+              "RelativeDocumentMoniker": "Sisusa.Security.csproj",
+              "ToolTip": "E:\\Documents\\GitHub\\Sisusa.Security\\Sisusa.Security.csproj",
+              "RelativeToolTip": "Sisusa.Security.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T12:06:38.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolicyBuilder.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Sisusa.Security\\PolicyBuilder.cs",
+              "RelativeDocumentMoniker": "PolicyBuilder.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Sisusa.Security\\PolicyBuilder.cs",
+              "RelativeToolTip": "PolicyBuilder.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA3wFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:00:41.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Sisusa.Security\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "E:\\Documents\\GitHub\\Sisusa.Security\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAIEAAAAAAAAAAADwv4sAAACuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-25T11:59:15.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordMeetsPolicy.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Sisusa.Security\\PasswordMeetsPolicy.cs",
+              "RelativeDocumentMoniker": "PasswordMeetsPolicy.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Sisusa.Security\\PasswordMeetsPolicy.cs",
+              "RelativeToolTip": "PasswordMeetsPolicy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA4wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:54:05.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordHasherBuilder.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Sisusa.Security\\PasswordHasherBuilder.cs",
+              "RelativeDocumentMoniker": "PasswordHasherBuilder.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Sisusa.Security\\PasswordHasherBuilder.cs",
+              "RelativeToolTip": "PasswordHasherBuilder.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:44:02.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordHasherTests.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Sisusa.SecurityTests\\PasswordHasherTests.cs",
+              "RelativeDocumentMoniker": "..\\Sisusa.SecurityTests\\PasswordHasherTests.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Sisusa.SecurityTests\\PasswordHasherTests.cs",
+              "RelativeToolTip": "..\\Sisusa.SecurityTests\\PasswordHasherTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:38:23.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Sisusa.Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "PasswordHasher.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Sisusa.Security\\PasswordHasher.cs",
+              "RelativeToolTip": "PasswordHasher.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:53:00.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Sisusa.Security\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Sisusa.Security\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:00:48.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordPolicy.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Sisusa.Security\\PasswordPolicy.cs",
+              "RelativeDocumentMoniker": "PasswordPolicy.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Sisusa.Security\\PasswordPolicy.cs",
+              "RelativeToolTip": "PasswordPolicy.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAADwv6YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:11:28.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordPolicyTests.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Sisusa.SecurityTests\\PasswordPolicyTests.cs",
+              "RelativeDocumentMoniker": "..\\Sisusa.SecurityTests\\PasswordPolicyTests.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Sisusa.SecurityTests\\PasswordPolicyTests.cs",
+              "RelativeToolTip": "..\\Sisusa.SecurityTests\\PasswordPolicyTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:03:56.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

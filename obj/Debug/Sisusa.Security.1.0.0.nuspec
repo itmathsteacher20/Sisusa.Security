@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Sisusa.Security</id>
+    <version>1.0.0</version>
+    <title>Sisusa.Security</title>
+    <authors>Sisusa.Security</authors>
+    <readme>README.md</readme>
+    <description>Library for working with Passwords - hashing them, validating them in a secrue manner.</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>(c)2025 T_Dlamini</copyright>
+    <tags>password hashing password-policy</tags>
+    <repository type="git" url="https://github.com/itmathsteacher20/Sisusa.Security" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Documents\GitHub\Sisusa.Security\bin\Debug\net9.0\Sisusa.Security.dll" target="lib\net9.0\Sisusa.Security.dll" />
+    <file src="E:\Documents\GitHub\Sisusa.Security\README.md" target="\README.md" />
+  </files>
+</package>

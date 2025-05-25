@@ -1,0 +1,11 @@
+E:\Documents\GitHub\Sisusa.Security\bin\Debug\net9.0\Sisusa.Security.deps.json
+E:\Documents\GitHub\Sisusa.Security\bin\Debug\net9.0\Sisusa.Security.dll
+E:\Documents\GitHub\Sisusa.Security\bin\Debug\net9.0\Sisusa.Security.pdb
+E:\Documents\GitHub\Sisusa.Security\obj\Debug\net9.0\Sisusa.Security.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\Sisusa.Security\obj\Debug\net9.0\Sisusa.Security.AssemblyInfoInputs.cache
+E:\Documents\GitHub\Sisusa.Security\obj\Debug\net9.0\Sisusa.Security.AssemblyInfo.cs
+E:\Documents\GitHub\Sisusa.Security\obj\Debug\net9.0\Sisusa.Security.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\Sisusa.Security\obj\Debug\net9.0\Sisusa.Security.dll
+E:\Documents\GitHub\Sisusa.Security\obj\Debug\net9.0\refint\Sisusa.Security.dll
+E:\Documents\GitHub\Sisusa.Security\obj\Debug\net9.0\Sisusa.Security.pdb
+E:\Documents\GitHub\Sisusa.Security\obj\Debug\net9.0\ref\Sisusa.Security.dll
